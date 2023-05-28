@@ -1,0 +1,21 @@
+.list1 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  border-width: 2px;
+  border-style: solid;
+  border-color: grey;
+  border-radius: 10px;
+  width: 240px;
+  padding: 10px;
+  margin-right: 30px;
+}
+
+.img {
+  border: none;
+  background-color: transparent;
+}
+
+.head {
+  font-weight: bold;
+}
